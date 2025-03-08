@@ -1,0 +1,3 @@
+Below is a given Black-Scholes-Merton (BSM) option pricing calculator that accurately computes the theoretical value of options based on key inputs, including strike price, underlying asset price, risk-free rate, volatility, and time to maturity.
+
+In addition to pricing, this tool provides a comprehensive analysis of option Greeks (Delta, Gamma, Vega, Theta, and Rho) by dynamically plotting their movements in response to market fluctuations. This visualization enhances the understanding of an option’s sensitivity to various factors, enabling more informed risk management and strategic decision-making.
