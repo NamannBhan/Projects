@@ -1,5 +1,7 @@
 """
-To run the file, download it, run: python -m streamlit bsm_model.py
+To run the file, copy paste this into browser
+
+https://bsm-option-pricing-model2-namann.streamlit.app/#made-by-namann-bhan
 
 """
 import pandas as pd
